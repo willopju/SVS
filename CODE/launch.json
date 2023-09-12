@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "(gdb) Launch Remote Debugging of xv6",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceRoot}/CODE/xv6/kernel/kernel",
+        "miDebuggerServerAddress": "localhost:26000",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceRoot}",
+        "environment": [],
+        "externalConsole": true,
+        "linux": {
+          "MIMode": "gdb"
+        },
+        "osx": {
+          "MIMode": "gdb"
+        },
+        "windows": {
+          "MIMode": "gdb"
+        }
+      }
+    ]
+  }
