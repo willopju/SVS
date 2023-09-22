@@ -26,4 +26,4 @@
 
 ## Review Process
 
-- [Example NeurIPS] (https://openreview.net/forum?id=09QFnDWPF8)
+- [Example NeurIPS](https://openreview.net/forum?id=09QFnDWPF8)
