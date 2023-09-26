@@ -27,7 +27,7 @@
 ## Conference Rankings
 
 - [CORE](http://portal.core.edu.au/conf-ranks/)
-- [GRIN](https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf)
+- [GRIN/SCIE](https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf)
 
 ## Review Process
 
