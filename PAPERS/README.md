@@ -10,7 +10,7 @@
 ## Virtualization
 
 * 1.a _Xen and the Art of Virtualization_, SOSP 2003, [pdf](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) **[owner1][owner2]**
-* 1.b _Efficient Memory Virtualization: Reducing Dimensionality of Nested Page Walks_, MICRO 2014, [pdf](./2.b/memvirt.pdf)( **[owner1][owner2]**
+* 1.b _Efficient Memory Virtualization: Reducing Dimensionality of Nested Page Walks_, MICRO 2014, [pdf](./1.b/memvirt.pdf)( **[owner1][owner2]**
 ... 
 
 ## Security 
