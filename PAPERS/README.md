@@ -9,7 +9,7 @@
   
 ## Virtualization
 
-* 1.a _Xen and the Art of Virtualization_, SOSP 2003, [pdf](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) **[owner1][owner2]**
+* 1.a _Xen and the Art of Virtualization_, SOSP 2003, [pdf](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) **[Marta Obregón Ruiz][owner2]**
 * 1.b _Efficient Memory Virtualization: Reducing Dimensionality of Nested Page Walks_, MICRO 2014, [pdf](./1.b/memvirt.pdf)( **[owner1][owner2]**
 * 1.c _NoHype: Virtualized Cloud Infrastructure without the Virtualization_, ISCA 2010, [pdf](https://www.cs.princeton.edu/~jrex/papers/isca10.pdf) **[owner1][owner2]**
 ... 
