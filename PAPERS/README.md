@@ -14,7 +14,7 @@
 * 1.c _NoHype: Virtualized Cloud Infrastructure without the Virtualization_, ISCA 2010, [pdf](https://www.cs.princeton.edu/~jrex/papers/isca10.pdf) **[Mehdi Nasef][Iván Sánchez]**
 * 1.d _Cross-ISA Machine Instrumentation using Fast and Scalable Dynamic Binary Translation_, VEE 2019, [pdf](./1.d/emul.pdf) **[Aitor Juncal Blanco][Arturo Rodriguez Benito]**
 * 1.e _Kata Containers: An Emerging Architecture for Enabling MEC Services in Fast and Secure Way_, IOTMS 2019, [pdf](./1.e/kata.pdf) **[Tomás Calderón López][Juan David Corrales Gil]**
-* 1.f _Accelerating Two-Dimensional Page Walks for Virtualized Systems_, ASPLOS 2008 [pdf](./1.f/cachetlb.pdf) **[owner 1][owner 2]**
+* 1.f _Accelerating Two-Dimensional Page Walks for Virtualized Systems_, ASPLOS 2008, [pdf](./1.f/cachetlb.pdf) **[owner 1][owner 2]**
 ... 
 
 ## Security 
