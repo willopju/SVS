@@ -18,8 +18,6 @@
 * 1.g _Live Migration of Virtual Machines_, NSDI 2005, [pdf](./1.g/migrations.pdf) **[Alejandro Rojo Arenal][Paula Domínguez Martínez]**
 * 1.h _virtio: Towards a De-Facto Standard For Virtual I/O Devices_, Operating Systems Review 2008, [pdf](https://ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf) **[Hongxiang Wu][Alejandra Wilches]**
   
-... 
-
 ## Security 
 
 * 2.a _Flipping Bits in Memory Without Accessing Them:An Experimental Study of DRAM Disturbance Errors_, ISCA 2014, [pdf](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf), **[owner 1][owner 2]**
@@ -39,4 +37,5 @@
 
 ## Review Process
 
+- [Slides](../MATERIAL/00-PaperReviewGuide.pdf)
 - [Example NeurIPS](https://openreview.net/forum?id=09QFnDWPF8)
