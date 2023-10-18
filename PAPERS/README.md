@@ -20,7 +20,7 @@
   
 ## Security 
 
-* 2.a _Flipping Bits in Memory Without Accessing Them:An Experimental Study of DRAM Disturbance Errors_, ISCA 2014, [pdf](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf), **[Javier Canales García][owner 2]**
+* 2.a _Flipping Bits in Memory Without Accessing Them:An Experimental Study of DRAM Disturbance Errors_, ISCA 2014, [pdf](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf), **[Javier Canales García][Marta Obregón Ruiz]**
 * 2.b _Meltdown: Reading Kernel Memory from User Space_ [pdf](https://meltdownattack.com/meltdown.pdf) **[owner 1][owner 2]**
 * 2.c _TRRespass: Exploiting the Many Sides of Target Row Refresh_, IEEE Micro Top-pick 2020, [pdf](https://download.vusec.net/papers/trrespass_sp20.pdf) **[owner 1][owner 2]**
 
