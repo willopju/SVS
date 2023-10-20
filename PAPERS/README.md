@@ -24,6 +24,7 @@
 * 2.b _Meltdown: Reading Kernel Memory from User Space_, arXiv 2018, [pdf](https://meltdownattack.com/meltdown.pdf) **[Aitor Juncal Blanco][Saúl Fernández Tobías]**
 * 2.c _TRRespass: Exploiting the Many Sides of Target Row Refresh_, IEEE Micro Top-pick 2020, [pdf](https://download.vusec.net/papers/trrespass_sp20.pdf) **[Mario Martín Pérez][Jaime Iglesias Blanco]**
 * 2.d _Spectre Attacks: Exploiting Speculative Execution_, arXiv 2018, [pdf](https://arxiv.org/abs/1801.01203) **[owner 1][owner 2]**
+* 2.e _Time Protection: The Missing OS Abstraction_, EuroSys 2019, [pdf](https://www.cs.bham.ac.uk/~tpc/Papers/EuroSys19.pdf)
 
 ## Conferences
 
