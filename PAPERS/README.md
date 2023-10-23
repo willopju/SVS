@@ -26,6 +26,7 @@
 * 2.d _Spectre Attacks: Exploiting Speculative Execution_, arXiv 2018, [pdf](https://arxiv.org/abs/1801.01203) **[Arturo Rodríguez Benito][Tomás Calderón López]**
 * 2.e _Time Protection: The Missing OS Abstraction_, EuroSys 2019, [pdf](https://www.cs.bham.ac.uk/~tpc/Papers/EuroSys19.pdf)  **[owner 1][owner 2]**
 * 2.f _Hey, You, Get Off of My Cloud: Exploring Information Leakage in Third-Party Compute Clouds_, CCS09, [pdf](https://pages.cs.wisc.edu/~rist/papers/cloudsec.pdf)  **[Noé Ruano Gutiérrez][owner 2]**
+* 2.g _One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization_. [paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484779) **[owner 1][owner 2]**
 
 ## Conferences
 
