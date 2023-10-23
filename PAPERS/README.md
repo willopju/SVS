@@ -34,6 +34,7 @@
 - [EUROSYS](http://portal.core.edu.au/conf-ranks/?search=EUROSYS&by=all&source=CORE2023&sort=atitle&page=1) 
 - [ISCA](http://portal.core.edu.au/conf-ranks/?search=ISCA&by=all&source=CORE2023&sort=atitle&page=1)
 - [ASPLOS](http://portal.core.edu.au/conf-ranks/?search=ASPLOS&by=all&source=CORE2023&sort=atitle&page=1)
+- [CCS](http://portal.core.edu.au/conf-ranks/12/)
 
 ## Conference Rankings
 
