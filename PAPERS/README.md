@@ -51,6 +51,6 @@
 
 ## Scheduling
 
-- 7 Nov. 1.a, 1.b
-- 9 Nov. 1.c, 1.d
+- 7 Nov. 0.a, 0.b
+- 9 Nov. 0.c, 0.d
 
