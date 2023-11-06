@@ -49,3 +49,8 @@
 - [Lecture Notes](../MATERIAL/00-PaperReviewGuide.pdf)
 - [Example NeurIPS](https://openreview.net/forum?id=09QFnDWPF8)
 
+## Scheduling
+
+- 7 Nov. 1.a, 1.b
+- 9 Nov. 1.c, 1.d
+
