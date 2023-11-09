@@ -29,7 +29,7 @@
 * 2.g _One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization_, CCS 2021, [paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484779) **[Antonio Solana Suarez][Jiale Zhang]**
 * 2.h _Keystone: An Open Framework for Architecting Trusted Execution Environments_, EuroSys 2019 , [pdf](https://n.ethz.ch/~sshivaji/publications/keystone_eurosys20.pdf) **[Iván Sánchez Calderón][Juan David Corrales Gil]**
 * 2.i _A Memory Encryption Engine Suitable for General Purpose Processors_, IACR Cryptology 2016 ,[pdf](https://eprint.iacr.org/2016/204.pdf) **[owner 1][owner 2]**
-* 2.j _iLeakage: Browser-based Timerless Speculative Execution Attackson Apple Devices_, CCS 2023, [web](https://ileakage.com/) **[owner 1][owner 2]**
+* 2.j _iLeakage: Browser-based Timerless Speculative Execution Attackson Apple Devices_, CCS 2023, [web](https://ileakage.com/) **Rodrigo Peña [owner 2]**
 * 2.k Securing GPU via region-based bounds checking , [pdf](https://dl.acm.org/doi/pdf/10.1145/3470496.3527420) **[Mehdi Nasef][owner 2]**
 
 ## Conferences
