@@ -14,7 +14,7 @@
 * 1.c _NoHype: Virtualized Cloud Infrastructure without the Virtualization_, ISCA 2010, [pdf](https://www.cs.princeton.edu/~jrex/papers/isca10.pdf) **[Mehdi Nasef][Iván Sánchez]**
 * 1.d _Cross-ISA Machine Instrumentation using Fast and Scalable Dynamic Binary Translation_, VEE 2019, [pdf](./1.d/emul.pdf) **[Aitor Juncal Blanco][Arturo Rodriguez Benito]**
 * 1.e _Kata Containers: An Emerging Architecture for Enabling MEC Services in Fast and Secure Way_, IOTMS 2019, [pdf](./1.e/kata.pdf) **[Tomás Calderón López][Juan David Corrales Gil]**
-* 1.f _Accelerating Two-Dimensional Page Walks for Virtualized Systems_, ASPLOS 2008, [pdf](./1.f/cachetlb.pdf) **[owner 1][owner 2]**
+* 1.f _Accelerating Two-Dimensional Page Walks for Virtualized Systems_, ASPLOS 2008, [pdf](./1.f/cachetlb.pdf) **[Antonio Solana Suárez][owner 2]**
 * 1.g _Live Migration of Virtual Machines_, NSDI 2005, [pdf](./1.g/migrations.pdf) **[Alejandro Rojo Arenal][Paula Domínguez Martínez]**
 * 1.h _virtio: Towards a De-Facto Standard For Virtual I/O Devices_, Operating Systems Review 2008, [pdf](https://ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf) **[Hongxiang Wu][Alejandra Wilches]**
   
@@ -26,7 +26,7 @@
 * 2.d _Spectre Attacks: Exploiting Speculative Execution_, arXiv 2018, [pdf](https://arxiv.org/abs/1801.01203) **[Arturo Rodríguez Benito][Tomás Calderón López]**
 * 2.e _Time Protection: The Missing OS Abstraction_, EuroSys 2019, [pdf](https://www.cs.bham.ac.uk/~tpc/Papers/EuroSys19.pdf)  **[owner 1][owner 2]**
 * 2.f _Hey, You, Get Off of My Cloud: Exploring Information Leakage in Third-Party Compute Clouds_, CCS09, [pdf](https://pages.cs.wisc.edu/~rist/papers/cloudsec.pdf)  **[Noé Ruano Gutiérrez][Victor Viñas Sierra]**
-* 2.g _One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization_, CCS 2021, [paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484779) **[Antonio Solana Suarez][Jiale Zhang]**
+* 2.g _One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization_, CCS 2021, [paper](https://dl.acm.org/doi/abs/10.1145/3460120.3484779) **[owner 1][Jiale Zhang]**
 * 2.h _Keystone: An Open Framework for Architecting Trusted Execution Environments_, EuroSys 2019 , [pdf](https://n.ethz.ch/~sshivaji/publications/keystone_eurosys20.pdf) **[Iván Sánchez Calderón][Juan David Corrales Gil]**
 * 2.i _A Memory Encryption Engine Suitable for General Purpose Processors_, IACR Cryptology 2016 ,[pdf](https://eprint.iacr.org/2016/204.pdf) **[owner 1][owner 2]**
 * 2.j _iLeakage: Browser-based Timerless Speculative Execution Attackson Apple Devices_, CCS 2023, [web](https://ileakage.com/) **[Rodrigo Fernández Silió][Rodrigo Peña]**
