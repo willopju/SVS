@@ -56,5 +56,5 @@
 - 14 Nov. Resolución de dudas
 - 16 Nov. 1.a, 1.b
 - 21 Nov. 1.c, 1.d
-- 22 Nov. 1.e, 1.f 
+- 22 Nov. 1.e, 1.g 
 
