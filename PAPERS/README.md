@@ -52,10 +52,18 @@
 
 ## Scheduling
 
-- 7 Nov. 0.a, 0.b
-- 9 Nov. 0.c, 0.d
+- 7 Nov.  0.a, 0.b
+- 9 Nov.  0.c, 0.d
 - 14 Nov. Resolución de dudas
 - 16 Nov. 1.a, 1.b
 - 21 Nov. 1.c, 1.d
-- 22 Nov. 1.e, 1.g 
+- 22 Nov. Resolución de dudas II
+- 28 Nov. 1.e, 1.g
+- 30 Nov. 2.a, 2.b
+- 5 Dic.  2.c, 2.d
+- 7 Dic.  Resolución de dudas III  
+- 12 Dic. 2.f, 2.g
+- 14 Dic. 2.h, 2.j
+- 19 Dic. 2.k, 1.h
+- 21 Dic. Dudas Teoría
 
