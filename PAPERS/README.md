@@ -30,7 +30,7 @@
 * 2.h _Keystone: An Open Framework for Architecting Trusted Execution Environments_, EuroSys 2019 , [pdf](https://n.ethz.ch/~sshivaji/publications/keystone_eurosys20.pdf) **[Iván Sánchez Calderón][Juan David Corrales Gil]**
 * 2.i _A Memory Encryption Engine Suitable for General Purpose Processors_, IACR Cryptology 2016 ,[pdf](https://eprint.iacr.org/2016/204.pdf) **[owner 1][owner 2]**
 * 2.j _iLeakage: Browser-based Timerless Speculative Execution Attackson Apple Devices_, CCS 2023, [web](https://ileakage.com/) **[Rodrigo Fernández Silió][Rodrigo Peña]**
-* 2.k Securing GPU via region-based bounds checking , [pdf](https://dl.acm.org/doi/pdf/10.1145/3470496.3527420) **[Mehdi Nasef][owner 2]**
+* 2.k Securing GPU via region-based bounds checking , [pdf](https://dl.acm.org/doi/pdf/10.1145/3470496.3527420) **[Mehdi Nasef][Alejandro Rojo Arenal]**
 
 ## Conferences
 
