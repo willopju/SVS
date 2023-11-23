@@ -2,16 +2,16 @@
 
 ## Operating Systems
 
-* 0.a _The Linux Scheduler: a Decade of Wasted Cores_, EUROSYS 2016, [pdf](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf) **[Mario Martín][Saúl Fernández Tobías]**
-* 0.b _OS scheduling with nest: keeping tasks close together on warm cores_, EUROSYS 2022, [pdf](https://inria.hal.science/hal-03612592/document) **[Javier Canales García][Noé Ruano Gutiérrez]**
-* 0.c _Efficient Virtual Memory for Big Memory Servers_, ISCA 2013, [pdf](https://research.cs.wisc.edu/multifacet/papers/isca13_direct_segment.pdf) **[Antonio Solana Suarez][Jiale Zhang]**
-* 0.d _Unikernels: library operating systems for the cloud_, ASPLOS 2013, [pdf](https://mort.io/publications/pdf/asplos13-unikernels.pdf) **[Jaime Iglesias Blanco][Paula Domínguez]**
+* 0.a _The Linux Scheduler: a Decade of Wasted Cores_, EUROSYS 2016, [pdf](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf) **[_Mario Martín_][Saúl Fernández Tobías]**
+* 0.b _OS scheduling with nest: keeping tasks close together on warm cores_, EUROSYS 2022, [pdf](https://inria.hal.science/hal-03612592/document) **[_Javier Canales García_][Noé Ruano Gutiérrez]**
+* 0.c _Efficient Virtual Memory for Big Memory Servers_, ISCA 2013, [pdf](https://research.cs.wisc.edu/multifacet/papers/isca13_direct_segment.pdf) **[Antonio Solana Suarez][_Jiale Zhang_]**
+* 0.d _Unikernels: library operating systems for the cloud_, ASPLOS 2013, [pdf](https://mort.io/publications/pdf/asplos13-unikernels.pdf) **[Jaime Iglesias Blanco][_Paula Domínguez_]**
   
 ## Virtualization
 
-* 1.a _Xen and the Art of Virtualization_, SOSP 2003, [pdf](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) **[Marta Obregón Ruiz][Victor Viñas Sierra]**
+* 1.a _Xen and the Art of Virtualization_, SOSP 2003, [pdf](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) **[Marta Obregón Ruiz][_Victor Viñas Sierra_]**
 * 1.b _Efficient Memory Virtualization: Reducing Dimensionality of Nested Page Walks_, MICRO 2014, [pdf](./1.b/memvirt.pdf)( **[Rodrigo Fernández Silió][Rodrigo Peña Ruiz]**
-* 1.c _NoHype: Virtualized Cloud Infrastructure without the Virtualization_, ISCA 2010, [pdf](https://www.cs.princeton.edu/~jrex/papers/isca10.pdf) **[Mehdi Nasef][Iván Sánchez]**
+* 1.c _NoHype: Virtualized Cloud Infrastructure without the Virtualization_, ISCA 2010, [pdf](https://www.cs.princeton.edu/~jrex/papers/isca10.pdf) **[Mehdi Nasef][_Iván Sánchez_]**
 * 1.d _Cross-ISA Machine Instrumentation using Fast and Scalable Dynamic Binary Translation_, VEE 2019, [pdf](./1.d/emul.pdf) **[Aitor Juncal Blanco][Arturo Rodriguez Benito]**
 * 1.e _Kata Containers: An Emerging Architecture for Enabling MEC Services in Fast and Secure Way_, IOTMS 2019, [pdf](./1.e/kata.pdf) **[Tomás Calderón López][Juan David Corrales Gil]**
 * 1.f _Accelerating Two-Dimensional Page Walks for Virtualized Systems_, ASPLOS 2008, [pdf](./1.f/cachetlb.pdf) **[owner 1][owner 2]**
